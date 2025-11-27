@@ -1,5 +1,5 @@
 ## Lucas Santana Marianni
 <div>
 <img src="https://talent500.com/blog/wp-content/uploads/sites/42/2024/11/SQL.png" width="311px">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" width="200px" height="170px">
+<img src="https://img-c.udemycdn.com/course/750x422/539660_27d6_7.jpg" width="200px" height="170px">
 </div>
