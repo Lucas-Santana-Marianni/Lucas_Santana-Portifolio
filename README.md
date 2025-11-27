@@ -1,4 +1,4 @@
-## Lucas Santana Marianni
+# Lucas Santana Marianni
 
 # Tecnologias Dominadas
 <div>
